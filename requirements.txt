@@ -3,3 +3,4 @@ langchain-groq
 langchain-google-genai
 langchain-community 
 streamlit 
+python-dotenv
