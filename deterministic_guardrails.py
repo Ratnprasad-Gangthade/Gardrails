@@ -26,12 +26,6 @@ Deterministic guardrails use predefined rules to validate or block content.
 * ❌ Limited semantic understanding
 
 """
-
-from langchain_groq import ChatGroq
-from dotenv import load_dotenv
-
-load_dotenv(override=True)
-
 import re
 
 # --- Deterministic approach ---
